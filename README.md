@@ -42,11 +42,12 @@ O produto escolhido foi o carregador de celular *DASH charge* da one plus, a seg
 
 ![](Imagens%20da%20placa/inteiro.jpg)
 
-## Análise
 
 O gabinete é feito de plástico duro, com espessura suficiente para garantir uma boa resistência mecânica a choques. Para abri-lo, necessitei serrar a estrutura onde havia uma junção.
 
 Na especificação do produto a entrada é 100~240 V e 0.6 A máx, com sáida de 5V e 4A máx, o que é bem elevado para a categoria de carregadores, sendo um produto vendido em 2017.
+
+## Análise
 
 Obtendo o produto aberto, é possivel observar 4 capacitores eletroliticos, 1 CI, 1 Resistor, 1 Trafo e 1 conector USB na parte de cima da placa. É interessante notar que a potência de chaveamento é dissipada pelo CI na parte de cima, pois este esta conectado com um dissipador através de algum tipo de resina que deve ser condutora térmica, o trafo também está conectado a este dissipador pela mesma resina, a imagem a seguir mostra isso.
 
