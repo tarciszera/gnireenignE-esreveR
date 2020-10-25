@@ -1,4 +1,4 @@
-# gnireenignEesreveR <!-- omit in toc -->
+# gnireenign EesreveR <!-- omit in toc -->
 
 Este repositorio trata de uma tarefa da disciplina de eletrônica de potencia 2 sobre engenharia reversa de uma fonte chaveada comercia de celular, onde há certos requisitos a serem comtemplados, 
 
